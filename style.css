@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&family=Lato:ital,wght@0,300;1,100&display=swap');
+
+body{
+font-family: 'Inter', sans-serif;
+font-family: 'Lato', sans-serif;
+
+font-weight: 400;
+font-size: 40px;
+line-height: 48.41px;
+}
+
+
+#trivia{
+width: 1623px;
+height: 469;
+top: 1795px;
+left: 58px;
+
+}
+
+img{
+width: 1051px;
+height: 762px;
+top: 874px;
+left: 58px;
+
+
+}
+.head{
+font-family: Inter;
+font-size: 64px;
+font-weight: 700;
+line-height: 77px;
+letter-spacing: 0em;
+text-align: left;
+text-decoration-line: underline;
+
+}
